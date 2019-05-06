@@ -19,7 +19,7 @@ FUNCIONALIDADES REALIZADAS:
 	9. Dar a possibilidade de Salvar e Carregar vários jogos;
 	10. Implementar o jogo usando bibliotecas (ncurses) externas para dar suporte a cores;
 	11. Possibilidade de realizar um “Undo” (desfazer) inúmeras vezes;
-
+    
 -------------------------------------------------------------------------------------------------
 COMO COMPILAR:
 	- Entrar com o comando no terminal: "sudo apt-get install libncurses5-dev" para instalar a biblioteca ncurses;
