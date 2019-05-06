@@ -1,7 +1,8 @@
 	=== README ===
 
-DESENVOLVEDORES: MATHEUS FELLIPE DA COSTA ANDRADE
-		 JOÃO VICTOR MARQUES DE OLIVEIRA
+DESENVOLVEDORES: 
+João Victor Marques de Oliveira e Matheus Fellipe da Costa Andrade
+		 
 
 -------------------------------------------------------------------------------------------------
 FUNCIONALIDADES REALIZADAS:
@@ -13,22 +14,11 @@ FUNCIONALIDADES REALIZADAS:
 	   preenchendo os adjacentes de mesma cor;
 	6. Implementação da condição de término do jogo (máximo 25 rodadas ou tabuleiro
 	   completamente preenchido);
-	*7. Salvamento e carregamento do estado de um jogo;
-	*8. Estabelecer uma distribuição uniforme na geração das cores no tabuleiro;
-	*9. Dar a possibilidade de Salvar e Carregar vários jogos;
-	*10. Implementar o jogo usando bibliotecas (ncurses) externas para dar suporte a cores;
-	*11. Possibilidade de realizar um “Undo” (desfazer) inúmeras vezes;
-
-*Funcionalidades extras.
-
---------------------------------------------------------------------------------------------------
-FUNCIONALIDADES NÃO REALIZADAS:
-	- Possibilitar a criação de partidas com outros níveis de dificuldades;
-	- Implementar o jogo usando uma biblioteca gráfica (GTK, Allegro, SDL, etc);
-
---------------------------------------------------------------------------------------------------
-DIVISÃO DE TAREFAS:
-	- Os desenvolvedores dividiram a realização de todas as funcionalidades;
+	7. Salvamento e carregamento do estado de um jogo;
+	8. Estabelecer uma distribuição uniforme na geração das cores no tabuleiro;
+	9. Dar a possibilidade de Salvar e Carregar vários jogos;
+	10. Implementar o jogo usando bibliotecas (ncurses) externas para dar suporte a cores;
+	11. Possibilidade de realizar um “Undo” (desfazer) inúmeras vezes;
 
 -------------------------------------------------------------------------------------------------
 COMO COMPILAR:
